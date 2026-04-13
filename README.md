@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [AdminLTE - Bootstrap 4 Admin Dashboard](https://adminlte.io)
 
 [![npm version](https://img.shields.io/npm/v/admin-lte/latest.svg)](https://www.npmjs.com/package/admin-lte)
@@ -103,3 +104,12 @@ AdminLTE.io reserves the right to change the license of future releases.
 - [Pickaface](https://pickaface.net/)
 - [Unsplash](https://unsplash.com/)
 - [Uifaces](http://uifaces.com/)
+=======
+# PROJECT-BILAL-UKK-APLIKASI-PARKIR
+## Author
+© 2026 
+
+Project ini dibuat oleh BILAL.
+Jika digunakan, harap mencantumkan credit.
+>>>>>>> 6a3260442ad1e7a83732d751153364aa7083ae02
+# PROJECT-BILAL-UKK-APLIKASI-PARKIR
